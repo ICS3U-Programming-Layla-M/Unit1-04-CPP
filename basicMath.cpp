@@ -11,7 +11,7 @@ int main() {
     std::cout << "5 + 2 = " << 5+2 << std::endl;
     std::cout << "3 - 7 = " << 3-7 << std::endl;
     std::cout << "2 * 2 = " << 2*2 << std::endl;
-    std::cout << "7 / 4 = " << float(7)/float(4) << std::endl;
+    std::cout << "7/4 = " << float(7)/float(4) << std::endl;
     std::cout << "8^2 = " << pow(8, 2) << std::endl;
     std::cout << "√25 = " << sqrt(25) << std::endl;
 }
